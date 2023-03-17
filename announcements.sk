@@ -1,0 +1,57 @@
+every 5 minutes:
+    set {number} to round(random number between 1 and 6)
+    {number} is 1:
+        money()   
+    {number} is 2:
+        perks() 
+    {number} is 3:
+        discordstaff()
+    {number} is 4:
+        sethome() 
+    {number} is 5:
+        guide() 
+    {number} is 6:
+        gear() 
+
+function money():
+    broadcast ""
+    broadcast "              &c? &x&f&b&d&2&2&2ᴛ&x&f&b&c&d&2&2ɪ&x&f&b&c&7&2&2ᴘ&x&f&b&c&2&2&3ꜱ &x&f&b&b&d&2&3ᴀ&x&f&b&b&7&2&3ɴ&x&f&b&b&2&2&3ᴅ &x&f&b&a&d&2&3ᴛ&x&f&b&a&7&2&3ʀ&x&f&b&a&2&2&4ɪ&x&f&b&9&d&2&4ᴄ&x&f&b&9&7&2&4ᴋ&x&f&b&9&2&2&4ꜱ &c?" 
+    broadcast "&f| &7You can &x&f&b&9&3&6&dp&x&f&b&9&3&6&du&x&f&b&9&3&6&dr&x&f&b&9&3&6&dc&x&f&b&9&3&6&dh&x&f&b&9&3&6&da&x&f&b&9&3&6&ds&x&f&b&9&3&6&de &7 money on our store! &x&f&b&9&3&6&d/&x&f&b&9&3&6&ds&x&f&b&9&3&6&dt&x&f&b&9&3&6&do&x&f&b&9&3&6&dr&x&f&b&9&3&6&de"
+    broadcast ""
+	
+	
+function perks():
+    broadcast ""
+    broadcast "              &c? &x&f&b&d&2&2&2ᴛ&x&f&b&c&d&2&2ɪ&x&f&b&c&7&2&2ᴘ&x&f&b&c&2&2&3ꜱ &x&f&b&b&d&2&3ᴀ&x&f&b&b&7&2&3ɴ&x&f&b&b&2&2&3ᴅ &x&f&b&a&d&2&3ᴛ&x&f&b&a&7&2&3ʀ&x&f&b&a&2&2&4ɪ&x&f&b&9&d&2&4ᴄ&x&f&b&9&7&2&4ᴋ&x&f&b&9&2&2&4ꜱ &c?" 
+    broadcast "&f| &7You can &x&f&b&9&3&6&dp&x&f&b&9&3&6&du&x&f&b&9&3&6&dr&x&f&b&9&3&6&dc&x&f&b&9&3&6&dh&x&f&b&9&3&6&da&x&f&b&9&3&6&ds&x&f&b&9&3&6&de &7access to &x&f&b&9&3&6&d/&x&f&b&9&3&6&df&x&f&b&9&3&6&dl&x&f&b&9&3&6&dy on our store! &x&f&b&9&3&6&d/&x&f&b&9&3&6&ds&x&f&b&9&3&6&dt&x&f&b&9&3&6&do&x&f&b&9&3&6&dr&x&f&b&9&3&6&de"
+    broadcast ""
+
+function discordstaff():
+    broadcast ""
+    broadcast "              &c? &x&f&b&d&2&2&2ᴛ&x&f&b&c&d&2&2ɪ&x&f&b&c&7&2&2ᴘ&x&f&b&c&2&2&3ꜱ &x&f&b&b&d&2&3ᴀ&x&f&b&b&7&2&3ɴ&x&f&b&b&2&2&3ᴅ &x&f&b&a&d&2&3ᴛ&x&f&b&a&7&2&3ʀ&x&f&b&a&2&2&4ɪ&x&f&b&9&d&2&4ᴄ&x&f&b&9&7&2&4ᴋ&x&f&b&9&2&2&4ꜱ &c?" 
+    broadcast "&f| &7You get &x&f&b&9&3&6&dr&x&f&b&9&3&6&de&x&f&b&9&3&6&dw&x&f&b&9&3&6&da&x&f&b&9&3&6&dr&x&f&b&9&3&6&dd&x&f&b&9&3&6&ds &7for every vote you submit! &x&f&b&9&3&6&d/&x&f&b&9&3&6&dv&x&f&b&9&3&6&do&x&f&b&9&3&6&dt&x&f&b&9&3&6&de"
+    broadcast ""
+
+function sethome():
+    broadcast ""
+    broadcast "              &c? &x&f&b&d&2&2&2ᴛ&x&f&b&c&d&2&2ɪ&x&f&b&c&7&2&2ᴘ&x&f&b&c&2&2&3ꜱ &x&f&b&b&d&2&3ᴀ&x&f&b&b&7&2&3ɴ&x&f&b&b&2&2&3ᴅ &x&f&b&a&d&2&3ᴛ&x&f&b&a&7&2&3ʀ&x&f&b&a&2&2&4ɪ&x&f&b&9&d&2&4ᴄ&x&f&b&9&7&2&4ᴋ&x&f&b&9&2&2&4ꜱ &c?" 
+    broadcast "&f| &7You can &x&f&b&9&3&6&ds&x&f&b&9&3&6&de&x&f&b&9&3&6&dt &x&f&b&9&3&6&dy&x&f&b&9&3&6&do&x&f&b&9&3&6&du&x&f&b&9&3&6&dr &x&f&b&9&3&6&dh&x&f&b&9&3&6&do&x&f&b&9&3&6&dm&x&f&b&9&3&6&de &7so you can teleport back to it later! &x&f&b&9&3&6&d/&x&f&b&9&3&6&ds&x&f&b&9&3&6&de&x&f&b&9&3&6&dt&x&f&b&9&3&6&dh&x&f&b&9&3&6&do&x&f&b&9&3&6&dm&x&f&b&9&3&6&de"
+    broadcast ""
+
+function gear():
+    broadcast ""
+    broadcast "              &c? &x&f&b&d&2&2&2ᴛ&x&f&b&c&d&2&2ɪ&x&f&b&c&7&2&2ᴘ&x&f&b&c&2&2&3ꜱ &x&f&b&b&d&2&3ᴀ&x&f&b&b&7&2&3ɴ&x&f&b&b&2&2&3ᴅ &x&f&b&a&d&2&3ᴛ&x&f&b&a&7&2&3ʀ&x&f&b&a&2&2&4ɪ&x&f&b&9&d&2&4ᴄ&x&f&b&9&7&2&4ᴋ&x&f&b&9&2&2&4ꜱ &c?" 
+    broadcast "&f| &7You can &x&f&b&9&3&6&dp&x&f&b&9&3&6&du&x&f&b&9&3&6&dr&x&f&b&9&3&6&dc&x&f&b&9&3&6&dh&x&f&b&9&3&6&da&x&f&b&9&3&6&ds&x&f&b&9&3&6&de &7a rank to get access to &x&f&b&9&3&6&dc&x&f&b&9&3&6&du&x&f&b&9&3&6&ds&x&f&b&9&3&6&dt&x&f&b&9&3&6&do&x&f&b&9&3&6&dm &x&f&b&9&3&6&dk&x&f&b&9&3&6&di&x&f&b&9&3&6&dt&x&f&b&9&3&6&ds&x&f&b&9&3&6&d! &x&f&b&9&3&6&d/&x&f&b&9&3&6&ds&x&f&b&9&3&6&dt&x&f&b&9&3&6&do&x&f&b&9&3&6&dr&x&f&b&9&3&6&de"
+    broadcast ""
+    
+function guide():
+    broadcast ""
+    broadcast "              &c? &x&f&b&d&2&2&2ᴛ&x&f&b&c&d&2&2ɪ&x&f&b&c&7&2&2ᴘ&x&f&b&c&2&2&3ꜱ &x&f&b&b&d&2&3ᴀ&x&f&b&b&7&2&3ɴ&x&f&b&b&2&2&3ᴅ &x&f&b&a&d&2&3ᴛ&x&f&b&a&7&2&3ʀ&x&f&b&a&2&2&4ɪ&x&f&b&9&d&2&4ᴄ&x&f&b&9&7&2&4ᴋ&x&f&b&9&2&2&4ꜱ &c?" 
+    broadcast "&f| &7You can &bpurchase &x&f&b&9&3&6&dr&x&f&b&9&3&6&da&x&f&b&9&3&6&dn&x&f&b&9&3&6&dk&x&f&b&9&3&6&ds on our &x&f&b&9&3&6&ds&x&f&b&9&3&6&dt&x&f&b&9&3&6&do&x&f&b&9&3&6&dr&x&f&b&9&3&6&de &7that give you special perks! &x&f&b&9&3&6&d/&x&f&b&9&3&6&ds&x&f&b&9&3&6&dt&x&f&b&9&3&6&do&x&f&b&9&3&6&dr&x&f&b&9&3&6&de"
+    broadcast ""
+
+command /testbc:
+    trigger:
+        set {number} to round(random number between 1 and 1)
+        {number} is 1:
+            money()   
